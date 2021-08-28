@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 
-* 🔭 I’m currently working on [my first Django project](https://frootpy.herokuapp.com/)
-* 📫 How to reach me: @flantropy on *Telegram*, or fantropy@gmail.com on *Gmail*
-* Folder on my Google Drive with examples of QA artifacts
-[here](https://drive.google.com/drive/folders/1y-oWy7IyYP_FZO0WdQFxvEjakkci0loM?usp=sharing)
-* Here is my
-[Codewars](https://www.codewars.com/users/Nikita%20T)
-and [LeetCode](https://leetcode.com/fantropy/) accounts
-
+* 🔭 I’m currently working on my [telegram bot](https://t.me/data_is_power_bot)
+* 🎯 I'm currently looking for **Backend Developer** position with a _Python/Django_ stack
+* 📫 How to reach me: [@flantropy](https://t.me/flantropy) on *Telegram*, or fantropy@gmail.com on *Gmail*
+* Folder on my Google Drive with **CV** is available by 
+[this link](https://drive.google.com/drive/folders/1KRQBMAW4gP9aUD3Cpbzp8XjPTi3ov32G?usp=sharing)
+ 
