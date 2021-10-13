@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-* 🔭 I’m currently working on my [telegram bot](https://t.me/data_is_power_bot)
+* 🔭 I’m currently working on [Wildberries Bot](https://t.me/wbprobot)
 * 🎯 I'm currently looking for **Backend Developer** position with a _Python/Django_ stack
 * 📫 How to reach me: [@flantropy](https://t.me/flantropy) on *Telegram*, or fantropy@gmail.com on *Gmail*
 * Folder on my Google Drive with **CV** is available by 
